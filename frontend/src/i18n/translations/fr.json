@@ -1,0 +1,46 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "success": "Succès !",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "back": "Retour"
+  },
+  "auth": {
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "logout": "Déconnexion",
+    "email": "Email",
+    "password": "Mot de passe",
+    "forgotPassword": "Mot de passe oublié ?",
+    "confirmPassword": "Confirmer le mot de passe",
+    "name": "Nom"
+  },
+  "plants": {
+    "addPlant": "Ajouter une plante",
+    "myPlants": "Mes plantes",
+    "healthStatus": "État de santé",
+    "wateringSchedule": "Calendrier d'arrosage",
+    "lastWatered": "Dernier arrosage",
+    "species": "Espèce",
+    "sunlight": "Lumière",
+    "humidity": "Humidité"
+  },
+  "dashboard": {
+    "overview": "Vue d'ensemble",
+    "totalPlants": "Total des plantes",
+    "healthyPlants": "Plantes en bonne santé",
+    "needsAttention": "Nécessite de l'attention",
+    "recentActivity": "Activité récente"
+  },
+  "profile": {
+    "settings": "Paramètres",
+    "account": "Compte",
+    "preferences": "Préférences",
+    "notifications": "Notifications",
+    "language": "Langue"
+  }
+}

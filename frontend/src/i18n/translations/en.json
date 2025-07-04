@@ -1,0 +1,46 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "confirmPassword": "Confirm Password",
+    "name": "Name"
+  },
+  "plants": {
+    "addPlant": "Add Plant",
+    "myPlants": "My Plants",
+    "healthStatus": "Health Status",
+    "wateringSchedule": "Watering Schedule",
+    "lastWatered": "Last Watered",
+    "species": "Species",
+    "sunlight": "Sunlight",
+    "humidity": "Humidity"
+  },
+  "dashboard": {
+    "overview": "Overview",
+    "totalPlants": "Total Plants",
+    "healthyPlants": "Healthy Plants",
+    "needsAttention": "Needs Attention",
+    "recentActivity": "Recent Activity"
+  },
+  "profile": {
+    "settings": "Settings",
+    "account": "Account",
+    "preferences": "Preferences",
+    "notifications": "Notifications",
+    "language": "Language"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "Tomato___healthy": {
+        "name": "Tomato",
+        "health": "Healthy",
+        "treatment": "No treatment needed.",
+        "care_tips": "Water regularly. Ensure full sun exposure."
+    },
+    "Tomato___Leaf_Mold": {
+        "name": "Tomato",
+        "health": "Leaf Mold",
+        "treatment": "Remove affected leaves. Apply fungicide if necessary.",
+        "care_tips": "Improve air circulation. Avoid overhead watering."
+    },
+    "Tomato___Late_blight": {
+        "name": "Tomato",
+        "health": "Late Blight",
+        "treatment": "Apply copper-based fungicide. Remove infected plants.",
+        "care_tips": "Avoid wetting leaves. Rotate crops regularly."
+    }
+}
